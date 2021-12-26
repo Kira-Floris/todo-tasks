@@ -56,3 +56,6 @@ strike {
 .task-wrapper:hover {
   background-color: #f0f0f0;
 }
+.logout {
+  cursor: pointer;
+}

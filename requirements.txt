@@ -35,6 +35,7 @@ django-bootstrap4==2.3.1
 django-cors-headers==3.10.1
 django-widget-tweaks==1.4.8
 djangorestframework==3.12.2
+djangorestframework-simplejwt==5.0.0
 entrypoints==0.3
 filelock==3.0.12
 Flask==1.1.2
@@ -122,7 +123,7 @@ pycparser==2.20
 pydeck==0.6.2
 pygame==2.0.1
 Pygments==2.9.0
-PyJWT==1.7.1
+PyJWT==2.3.0
 pylint==2.5.2
 PyMySQL==1.0.2
 pyparsing==2.4.7
